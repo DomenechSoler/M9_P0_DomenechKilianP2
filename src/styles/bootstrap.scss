@@ -1,0 +1,11 @@
+// src/styles/bootstrap.scss
+
+
+// Sobrescribe variables de Bootstrap
+$primary: #FCE2D7;
+$info: #285E67;
+$btn-info: $info;
+$warning: #F4F4F4;
+
+@import "bootstrap/scss/bootstrap";
+// Importa Bootstrap desde node_modules

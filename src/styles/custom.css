@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.img-plantas {
+  width: 623px;
+  height: 578px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+fondo-bg {
+  background-image: url("../public/imagenfondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}/*# sourceMappingURL=custom.css.map */
